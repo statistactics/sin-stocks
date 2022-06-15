@@ -1,5 +1,4 @@
-# sin-stocks
+# Hypothesis
+a. Sin stocks exhibit a counter-cyclical pattern of returns relative to the business cycle. 
+b. Stimulant stocks exhibit a pro-cyclical pattern of returns relative to the business cycle.
 
-## Data Required
-- Dividend yield (%) of sin stocks and stimulant stocks
-- 1 Month US T-Bill 
