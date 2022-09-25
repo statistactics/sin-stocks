@@ -1,0 +1,7 @@
+,Series,ADF_Test_Statistic,MacKinnon_p_value
+0,ExRm,-25.357***,0.0
+1,SMB,-15.785***,0.0
+2,HML,-22.514***,0.0
+3,MOM,-19.714***,0.0
+4,Sin_Portfolio_Excess_Returns,-7.879***,0.0
+5,Stim_Portfolio_Excess_Returns,-26.712***,0.0
