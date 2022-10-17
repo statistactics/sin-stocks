@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: The Cyclical Dynamics of Sin and Stimulant Stocks
+message: >-
+  This notebook outlines the data analysis and
+  regression process for The Cyclical Dynamics of Sin
+  and Stimulant Stocks
+type: software
+authors:
+  - given-names: Caleb Mah
+    email: MAH0009@e.ntu.edu.sg
+  - given-names: Tilden Tan
+    email: tild0001@e.ntu.edu.sg
+repository-code: 'https://github.com/sansanity/sin-stocks'
+keywords:
+  - >-
+    sin stocks, stimulant stocks, business cycle,
+    counter-cyclic
